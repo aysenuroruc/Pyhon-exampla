@@ -7,7 +7,7 @@ def is_palindrome(string):
 str_input = raw_input()
 if len(str_input) <= 300:
 	if is_palindrome(str_input)==True:
-		print "Yes"
+		print "Yes Man!"
 	else: 
 		print "No"
 
